@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nan1{
+    background-image: url(img/img1.jpeg);
+    background-size: cover;
+    height: 750px;
+}
+
+.nan2 li{
+    display: inline-block;
+    padding-left: 30px;
+    font-size: 26px;
+    color: white;
+}
+
+.nan3{
+    color: #FFC200;
+    margin-left: 80px;
+    margin-top: 170px;
+    font-family: "Grand Hotel", cursive;
+    
+}
+
+.nan4{
+    font-size: 29px;
+    margin-left: 80px;
+}
+
+.nan5{
+    margin-left: 80px;
+}
+
+.nan6{
+    
+    font-family: "Grand Hotel", cursive;
+    padding-top:55px ;
+
+}
+
+.nan7{
+    border-radius: 50%;
+    width: 50%;
+    
+    margin-left: 80px;
+}
+
+.nan8{
+    text-align: center;
+    font-family: "Grand Hotel", cursive;
+    margin-top: 8px;
+    
+}
+
+.nan9{
+    text-align: center;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.nan10{
+    background-image: url(img/img6.png);
+    background-size: cover;
+    height: 550px;
+}
+
+.nan11{
+    border-radius: 50%;
+    width: 60%;
+    margin-top: 135px;
+}
+
+.nan12{
+    margin-top: 170px;
+    color: yellow;
+    font-family: "Grand Hotel", cursive;
+}
+
+.nan13{
+    font-size: 24px;
+}
+
+.nan14{
+    background-image: url(img/img10.jpg);
+    background-size: cover;
+    height: 750px;
+}
+
+.nan15{
+    padding-top: 60px;
+    color: yellow;
+    font-family: "Grand Hotel", cursive;
+
+}
+
+.nan16{
+    /* padding: 20px; */
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.nan17{
+    margin-top: 100px;
+}
+
+.nan18{
+    background-image: url(img/crop.jpg);
+    background-size: cover;
+    height: 550px;
+}
+
+.nan19{
+    font-family: "Grand Hotel", cursive;
+
+}
+
+.nan20{
+    font-size: 24px;
+}
+
+.nan21{
+    border-radius: 50%;
+    width: 60%;
+    margin-left: 140px;
+}
+
+.nan22{
+    background-image: url(img/img8.jpg);
+    background-size: cover;
+    height: 780px;
+    width: 100%;
+    opacity: 0.6;
+    
+
+    /* background-color: yellow; */
+
+}
+
+.nan23{
+    text-align: center;
+    color: white;
+    top: 45%;
+    left: 18%;
+    line-height: 42px;
+    
+}
+
+.nan24{
+    top: 72%;
+    left: 40%;
+    font-family: "Grand Hotel", cursive;
+    filter: brightness(8);
+
+}
+
+.nan25{
+    background-image: url(img/img9.jpg);
+    background-size: cover;
+    height: 750px;
+}
+
+.nan26{
+    text-align: center;
+    padding-top: 130px;
+    font-family: "Grand Hotel", cursive;
+    color: #333333;
+
+}
+
+.nan27{
+    margin-top: 80px;
+    
+}
+
+.nan28{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    width: 37%;
+    
+}
+
+.nan29{
+    background-color: #FFC100;
+    padding: 7px 30px;
+    margin-left: -3px;
+    color: #47412E;
+    
+}
+
+.nan30{
+    height: 550px;
+}
+
+.nan30 h3{
+    padding-left: 75px;
+    margin-top: 160px;
+    color: white;
+    font-weight: bold;
+}
+
+.nan30 p{
+    padding-left: 80px;
+    color: white;
+    font-size: 25px;
+}
+
+.nan31{
+    padding-left: 75px;
+
+}
+
+.nan31 img{
+    padding-left: 4px;
+}
+
+.nan32{
+    gap: 12%;
+    margin-top: 160px;
+}
+
+
+
+.nan33 p{
+    margin-bottom: 0%;
+    color: white;
+    font-size: 20px;
+}
+
+.nan34 p{
+    margin-bottom: 0%;
+    color: white;
+    font-size: 20px;
+}
+
+.nan35 p{
+    margin-bottom: 0%;
+    color: white;
+    font-size: 20px;
+}
